@@ -26,5 +26,12 @@
       "quadrant": "languages & frameworks",
       "isNew": "FALSE",
       "description": "We continue to see teams run into trouble using JSF ..."
+    },
+    {
+        "name": "Snowflake",
+        "ring": "hold",
+        "quadrant": "data & analytics",
+        "isNew": "FALSE",
+        "description": "We continue to see teams run into trouble using JSF ..."
     }
   ]
